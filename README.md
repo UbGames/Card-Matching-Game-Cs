@@ -10,6 +10,7 @@ As the game continues, you will be able to remember the positions and values of 
 Test your skills against the clock! The game ends when all the cards have been made into pairs.
 
 The card matching game is an excellent resource to Learn How to Program C# Games!
+
 Features:
 
 Create a deck of cards
@@ -25,4 +26,4 @@ What is included?
 All source code and files used to create the game.
 
 Necessary Software:
-You will need to have Visual Studio installed on your computer.
+You will need to have Visual Studio 2022 installed on your computer.
