@@ -1,0 +1,17 @@
+-------------------------------------------
+
+ShuffleNDealP1 by UbGames (www.ubgames.com)
+
+-------------------------------------------
+
+License (CC0)
+http://creativecommons.org/publicdomain/zero/1.0/
+
+You may use the game source code in personal, educational and commercial projects.
+This product is prohibited for resell or distribution.
+
+-------------------------------------------
+
+Credit (UbGames or www.ubgames.com) would be appreciated but is not mandatory.
+
+-------------------------------------------
