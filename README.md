@@ -1,4 +1,7 @@
 # Card-Matching-Game-Cs
+
+<img width="850" height="425" alt="ShuffleNDealP1_850x425" src="https://github.com/user-attachments/assets/337abef4-264e-4754-8b80-c1b94e0da81e" />
+
 The Card Matching Game is a card game (single player) is using one deck of playing cards. The object of the game is to match as many cards as you can by turning the cards face up in pairs of the same value.
 At the beginning of play turn two cards face up, one at a time. If they are a pair, such as 2 Aces or 2 Threes, you matched the two cards. See if you can turn up another pair. Keep on playing until you turn up all cards.
 
